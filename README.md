@@ -1,2 +1,2 @@
 # newproject
-Welcome to my account
+Welcome to my project
